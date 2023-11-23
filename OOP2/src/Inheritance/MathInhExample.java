@@ -39,6 +39,3 @@ class MathSuperAdvanced extends MathAdvanced {
         return  a / b;
     }
 }
-
-
-
