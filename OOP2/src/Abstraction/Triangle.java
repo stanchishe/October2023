@@ -1,5 +1,7 @@
 package Abstraction;
 
 // Homework
-public class Triangle extends TwoDShape {
+public class Triangle
+        //extends TwoDShape
+    {
 }
