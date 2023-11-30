@@ -11,5 +11,10 @@ public class AssertionExample {
         assert (age >= 18);
 
         System.out.println("You are of legal age!");
+        System.out.println("You are of legal age!");
+        System.out.println("You are of legal age!");
+        System.out.println("You are of legal age!");
+        System.out.println("You are of legal age!");
+        System.out.println("You are of legal age!");
     }
 }
